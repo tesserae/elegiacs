@@ -41,6 +41,9 @@ http://www.tesserae-dev.org/elegiacs/tibullus.tgz
 Vergil Aeneid:
 http://www.tesserae-dev.org/elegiacs/vergil.tgz
 
+Texts used to assess meter's influence on word choice:
+http://www.tesserae-dev.org/elegiacs/meter_texts.tgz
+
 Citing this Code
 ----------------
 
